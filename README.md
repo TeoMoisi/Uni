@@ -11,9 +11,9 @@
   🔗 [Data Structures and Algorithms](https://github.com/TeoMoisi/BinaryTree)
   
   🌈 Object Oriented Programming
-    
-      * Laboratories
-      * Final exam
+
+     * [Laboratories](https://github.com/TeoMoisi/qt_project)
+     * [Final exam](https://github.com/TeoMoisi/final_exam)
 
 * 3rd Semester
 
