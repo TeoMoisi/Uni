@@ -1,3 +1,9 @@
 # Uni
 
-#1st Semester
+* 1st Semester
+
+* 2nd Semester
+
+* 3rd Semester
+
+* 4th Semester
