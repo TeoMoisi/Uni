@@ -7,6 +7,13 @@
 * 2nd Semester
 
   📈 [Graph Algorithms](https://github.com/TeoMoisi/graph-algorithms)
+  
+  🔗 [Data Structures and Algorithms](https://github.com/TeoMoisi/BinaryTree)
+  
+  🌈 Object Oriented Programming
+    
+      * Laboratories
+      * Final exam
 
 * 3rd Semester
 
