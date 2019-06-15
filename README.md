@@ -6,6 +6,8 @@
 
 * 2nd Semester
 
+  📈 [Graph Algorithms](https://github.com/TeoMoisi/graph-algorithms)
+
 * 3rd Semester
 
 * 4th Semester
