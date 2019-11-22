@@ -27,4 +27,4 @@
 
 * 5th Semester
  
-  :closed_lock_with_key: [Paralled and Distributed Programming](https://github.com/TeoMoisi/PPD)
+  :closed_lock_with_key: [Parallel and Distributed Programming](https://github.com/TeoMoisi/PPD)
