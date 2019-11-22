@@ -19,11 +19,12 @@
 
 * 4th Semester
   
-   * [Web Programming](https://github.com/TeoMoisi/WEB)
+   :fireworks: [Web Programming](https://github.com/TeoMoisi/WEB)
    
    :rocket: [Artificial Intelligence](https://github.com/TeoMoisi/AI)
-   * [Databases](https://github.com/TeoMoisi/databases)
+   
+   :floppy_disk: [Databases](https://github.com/TeoMoisi/databases)
 
 * 5th Semester
  
-  * [Paralled and Distributed Programming](https://github.com/TeoMoisi/PPD)
+  :closed_lock_with_key: [Paralled and Distributed Programming](https://github.com/TeoMoisi/PPD)
